@@ -1,10 +1,10 @@
 const products = {
     "Kiwis": ["/img/Kiwi.jpg", "/img/unnamed.jpg", "/img/kiwi1.jpg"],
-    "Lemons": ["/img/lemon1.jpg", "/img/lemon4.webp", "/img/lemon3.jpg"],
-    "Strawberries": ["/img/sb1.jpg", "/img/sb2.webp", "/img/sb3.png"],
+    "Lemons": ["/img/lemon1.jpg", "/img/lemon3.jpg", "/img/lemon3.jpg"],
+    "Strawberries": ["/img/sb1.jpg", "/img/sb3.png", "/img/sb3.png"],
     "Figs": ["/img/fig1.jpg", "/img/fig2.jpeg", "/img/fig3.jpg"],
     "Nectarines": ["/img/nec1.webp", "/img/nec2.jpg", "/img/nec3.jpg"],
-    "Watermelons": ["/img/Watermelon.webp", "/img/wt1.png", "/img/wt2.jpg"],
+    "Watermelons": ["/img/wt1.png", "/img/wt1.png", "/img/wt2.jpg"],
 };
 
 // Lưu trữ dữ liệu vào localStorage
