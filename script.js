@@ -1,5 +1,5 @@
 const products = {
-    "Kiwis": ["/img/Kiwi.jpg", "/img/unnamed.jpg", "/img/kiwi1.jpg"],
+    "Kiwis": ["https://github.com/hongdayy/t3h/blob/master/img/Kiwi.jpg", "/img/unnamed.jpg", "/img/kiwi1.jpg"],
     "Lemons": ["/img/lemon1.jpg", "/img/lemon3.jpg", "/img/lemon3.jpg"],
     "Strawberries": ["/img/sb1.jpg", "/img/sb3.png", "/img/sb3.png"],
     "Figs": ["/img/fig1.jpg", "/img/fig2.jpeg", "/img/fig3.jpg"],
